@@ -140,6 +140,16 @@ celerybeat.pid
 .venv
 env/
 venv/
+Text_Summarizer/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+dist/
+build/
+*.egg-info/
 ENV/
 env.bak/
 venv.bak/
